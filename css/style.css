@@ -79,6 +79,12 @@
   height: 52%;
 }
 
+#iceberg {
+  position: absolute;
+  margin: -184px ;
+  z-index: -1;
+}
+
 .alert {
   color: black;
   font-size: 12px;
