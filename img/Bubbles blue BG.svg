@@ -1,0 +1,799 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1579.676" height="1105.192" viewBox="0 0 1579.676 1105.192">
+  <defs>
+    <filter id="Pfad_466" x="0" y="500.178" width="91.146" height="91.146" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-color="#80e2ff"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Pfad_466-2" x="0" y="500.178" width="91.146" height="91.146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#8bd9ff" flood-opacity="0" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_470" x="1442.779" y="452.01" width="54.669" height="54.669" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-color="#80e2ff"/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="Pfad_470-2" x="1442.779" y="452.01" width="54.669" height="54.669" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#8bd9ff" flood-opacity="0" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_471" x="1501.789" y="240.773" width="54.669" height="54.669" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-color="#80e2ff"/>
+      <feComposite operator="in" in2="blur-5"/>
+    </filter>
+    <filter id="Pfad_471-2" x="1501.789" y="240.773" width="54.669" height="54.669" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#8bd9ff" flood-opacity="0" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Pfad_467" x="1289.31" y="574.767" width="91.146" height="91.146" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-7"/>
+      <feFlood flood-color="#80e2ff"/>
+      <feComposite operator="in" in2="blur-7"/>
+    </filter>
+    <filter id="Pfad_467-2" x="1289.31" y="574.767" width="91.146" height="91.146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-color="#8bd9ff" flood-opacity="0" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_179" data-name="Gruppe 179" transform="translate(-67.012 -540.145)">
+    <rect id="Rechteck_1562" data-name="Rechteck 1562" width="1516" height="1105.192" transform="translate(81.688 540.145)" fill="rgba(114,192,230,0.33)"/>
+    <g id="Gruppe_159" data-name="Gruppe 159" transform="translate(-3.313 63.336)">
+      <g id="Gruppe_150" data-name="Gruppe 150" transform="translate(-7894 401)">
+        <g id="Ellipse_49" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_152" data-name="Gruppe 152" transform="translate(-7369 97)">
+        <g id="Ellipse_49-2" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-2" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-2" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-2" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-2" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-2" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-2" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-2" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-2" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-2" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-2" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_153" data-name="Gruppe 153" transform="translate(-7049 431)">
+        <g id="Ellipse_49-3" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-3" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-3" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-3" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-3" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-3" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-3" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-3" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-3" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-3" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-3" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_155" data-name="Gruppe 155" transform="translate(-6453 126)">
+        <g id="Ellipse_49-4" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-4" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-4" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-4" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-4" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-4" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-4" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-4" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-4" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-4" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-4" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_156" data-name="Gruppe 156" transform="translate(-6743 769)">
+        <g id="Ellipse_49-5" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-5" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-5" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-5" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-5" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-5" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-5" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-5" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-5" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-5" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-5" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_157" data-name="Gruppe 157" transform="translate(-7380 721)">
+        <g id="Ellipse_49-6" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-6" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-6" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-6" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-6" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-6" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-6" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-6" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-6" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-6" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-6" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_158" data-name="Gruppe 158" transform="translate(-7870 700)">
+        <g id="Ellipse_49-7" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-7" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-7" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-7" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-7" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-7" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-7" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-7" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-7" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-7" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-7" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Gruppe_160" data-name="Gruppe 160" transform="translate(5.688 367.336)">
+      <g id="Gruppe_150-2" data-name="Gruppe 150" transform="translate(6348.343 6064.87) rotate(-140)">
+        <g id="Ellipse_49-8" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-8" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-8" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-8" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-8" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-8" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-8" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-8" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-8" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-8" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-8" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_152-2" data-name="Gruppe 152" transform="translate(-7369 97)">
+        <g id="Ellipse_49-9" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-9" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-9" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-9" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-9" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-9" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-9" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-9" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-9" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-9" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-9" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_153-2" data-name="Gruppe 153" transform="translate(-7049 431)">
+        <g id="Ellipse_49-10" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-10" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-10" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-10" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-10" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-10" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-10" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-10" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-10" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-10" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-10" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_155-2" data-name="Gruppe 155" transform="matrix(-0.105, 0.995, -0.995, -0.105, 2856.375, -7410.199)">
+        <g id="Ellipse_49-11" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-11" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-11" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-11" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-11" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-11" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-11" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-11" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-11" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-11" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-11" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_156-2" data-name="Gruppe 156" transform="translate(-6743 769)">
+        <g id="Ellipse_49-12" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-12" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-12" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-12" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-12" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-12" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-12" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-12" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-12" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-12" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-12" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_157-2" data-name="Gruppe 157" transform="translate(-7380 721)">
+        <g id="Ellipse_49-13" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-13" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-13" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-13" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-13" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-13" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-13" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-13" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-13" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-13" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-13" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_158-2" data-name="Gruppe 158" transform="translate(-7870 700)">
+        <g id="Ellipse_49-14" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_56-14" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_50-14" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_55-14" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_54-14" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_52-14" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_53-14" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_58-14" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="8.5" fill="none"/>
+        </g>
+        <g id="Ellipse_51-14" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_59-14" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+        <g id="Ellipse_57-14" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="rgba(255,255,255,0.52)" stroke-width="2">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="1.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Gruppe_154" data-name="Gruppe 154" transform="translate(-6585 145)">
+        <g id="Ellipse_49-15" data-name="Ellipse 49" transform="translate(8009 440)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_56-15" data-name="Ellipse 56" transform="translate(8085 416)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_50-15" data-name="Ellipse 50" transform="translate(8019 454)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+        <g id="Ellipse_55-15" data-name="Ellipse 55" transform="translate(8095 430)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+        <g id="Ellipse_54-15" data-name="Ellipse 54" transform="translate(8036 423)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+        <g id="Ellipse_52-15" data-name="Ellipse 52" transform="translate(8019 425)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_53-15" data-name="Ellipse 53" transform="translate(8000 402)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_58-15" data-name="Ellipse 58" transform="translate(8032 387)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_51-15" data-name="Ellipse 51" transform="translate(8000 448)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+        <g id="Ellipse_59-15" data-name="Ellipse 59" transform="translate(7992 418)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+        <g id="Ellipse_57-15" data-name="Ellipse 57" transform="translate(8098 420)" fill="rgba(255,255,255,0.31)" stroke="#fff" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Gruppe_161" data-name="Gruppe 161" transform="translate(-3.313 63.336)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_466)">
+          <path id="Pfad_466-3" data-name="Pfad 466" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(2.75 502.93)" fill="rgba(0,0,0,0)" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+        </g>
+        <path id="Pfad_466-4" data-name="Pfad 466" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(73.074 979.737)" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_466-2)">
+          <path id="Pfad_466-5" data-name="Pfad 466" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(2.75 502.93)" fill="#fff"/>
+        </g>
+        <path id="Pfad_466-6" data-name="Pfad 466" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(73.074 979.737)" fill="none" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+      </g>
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_470)">
+          <path id="Pfad_470-3" data-name="Pfad 470" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1445.53 454.76)" fill="rgba(0,0,0,0)" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+        </g>
+        <path id="Pfad_470-4" data-name="Pfad 470" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1515.854 931.568)" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_470-2)">
+          <path id="Pfad_470-5" data-name="Pfad 470" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1445.53 454.76)" fill="#fff"/>
+        </g>
+        <path id="Pfad_470-6" data-name="Pfad 470" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1515.854 931.568)" fill="none" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+      </g>
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_471)">
+          <path id="Pfad_471-3" data-name="Pfad 471" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1504.54 243.52)" fill="rgba(0,0,0,0)" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+        </g>
+        <path id="Pfad_471-4" data-name="Pfad 471" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1574.863 720.331)" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, 70.32, 476.81)" filter="url(#Pfad_471-2)">
+          <path id="Pfad_471-5" data-name="Pfad 471" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1504.54 243.52)" fill="#fff"/>
+        </g>
+        <path id="Pfad_471-6" data-name="Pfad 471" d="M47.767,18h-15.7a.9.9,0,0,1-.9-.9V1.4a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9V17.1a.9.9,0,0,1-.9.9H1.4a.9.9,0,0,0-.9.9V30.265a.9.9,0,0,0,.9.9H17.1a.9.9,0,0,1,.9.9v15.7a.9.9,0,0,0,.9.9H30.265a.9.9,0,0,0,.9-.9v-15.7a.9.9,0,0,1,.9-.9h15.7a.9.9,0,0,0,.9-.9V18.9A.9.9,0,0,0,47.767,18Z" transform="translate(1574.863 720.331)" fill="none" stroke="rgba(114,192,230,0.17)" stroke-miterlimit="10" stroke-width="3.5"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 67.01, 540.14)" filter="url(#Pfad_467)">
+        <path id="Pfad_467-3" data-name="Pfad 467" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(1292.06 577.52)" fill="rgba(0,0,0,0)" stroke="rgba(114,192,230,0.44)" stroke-miterlimit="10" stroke-width="3.5"/>
+      </g>
+      <path id="Pfad_467-4" data-name="Pfad 467" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(1359.071 1117.661)" fill="rgba(0,0,0,0)"/>
+      <g transform="matrix(1, 0, 0, 1, 67.01, 540.14)" filter="url(#Pfad_467-2)">
+        <path id="Pfad_467-5" data-name="Pfad 467" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(1292.06 577.52)" fill="#fff"/>
+      </g>
+      <path id="Pfad_467-6" data-name="Pfad 467" d="M83.562,31.257H55.974a1.584,1.584,0,0,1-1.585-1.585V2.085A1.585,1.585,0,0,0,52.805.5H32.841a1.584,1.584,0,0,0-1.585,1.585V29.672a1.585,1.585,0,0,1-1.585,1.585H2.085A1.584,1.584,0,0,0,.5,32.841V52.805A1.584,1.584,0,0,0,2.085,54.39H29.672a1.585,1.585,0,0,1,1.585,1.585V83.562a1.584,1.584,0,0,0,1.585,1.585H52.805a1.585,1.585,0,0,0,1.585-1.585V55.974a1.584,1.584,0,0,1,1.585-1.585H83.562a1.585,1.585,0,0,0,1.585-1.585V32.841A1.585,1.585,0,0,0,83.562,31.257Z" transform="translate(1359.071 1117.661)" fill="none" stroke="rgba(114,192,230,0.44)" stroke-miterlimit="10" stroke-width="3.5"/>
+    </g>
+  </g>
+</svg>

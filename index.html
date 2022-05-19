@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Medical Content Score</title>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav id="main-h-nav" class="">
+      <ul class="nav-item-container">
+        <li class="nav-item">
+          <a href="#" class="nav-link active">Content Live Audit</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Child Level Scoring View</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Parent Scoring View</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Audit Details</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">A+ Control </a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Reviews Overview</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">Q&As</a>
+        </li>
+      </ul>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- White Section Start -->
+    <section id="white-section">
+      <!-- Title + Logo -->
+      <div id="headline">
+        <img class="headline-logo" src="./img/Logo.png" alt="" />
+        <span class="headline-title"><strong>KEY FINDINGS</strong></span>
+      </div>
+
+      <!-- First Global Cards Container -->
+      <div id="first-global-cards-container" class="card card-body p-4">
+        <div class="row g-4">
+          <!-- Column One -->
+          <div class="col-md-3 card-one">
+            <div class="alert alert-primary m-0 py-1 px-3 my-1" role="alert">
+              <strong>99.85%</strong> have a title &lt;200 chars
+            </div>
+            <div class="alert m-0 py-1 px-3 my-1" role="alert">
+              <strong>50.3%</strong> have 6 images or more
+            </div>
+            <div class="alert alert-primary m-0 py-1 px-3 my-1" role="alert">
+              <strong>7.43%</strong> have a video
+            </div>
+            <div class="alert m-0 py-1 px-3 my-1" role="alert">
+              <strong>29.99%</strong> have bullet points >100 chars
+            </div>
+            <div class="alert alert-primary m-0 py-1 px-3 my-1" role="alert">
+              <strong>72.58%</strong> are connected to a Brand Store
+            </div>
+            <div class="alert m-0 py-1 px-3 my-1" role="alert">
+              <strong>76.81%</strong> are inside a variation
+            </div>
+          </div>
+          <!-- Column One END-->
+
+          <!-- Column Two -->
+          <div class="col-md-4">
+            <!-- First Row-->
+            <div class="row g-2">
+              <div class="col-md-6 text-center">
+                <div class="card dash-card">
+                  <span>Bulletpoints</span>
+                  <div id="bullet-points-chart">Chart</div>
+                </div>
+              </div>
+              <div class="col-md-6 text-center">
+                <div class="card dash-card">
+                  <span>Pictures</span>
+                  <div id="pictures-chart">Chart</div>
+                </div>
+              </div>
+            </div>
+            <!-- First Row End-->
+
+            <!-- Second Row-->
+            <div class="row g-2 mt-1">
+              <div class="col-md-6 text-center">
+                <div class="card dash-card">
+                  <span>With Video in the Gallery</span>
+                  <div id="video-in-gallery-chart">Chart</div>
+                </div>
+              </div>
+              <div class="col-md-6 text-center">
+                <div class="card dash-card">
+                  <span>Connected to a Brand Store</span>
+                  <div id="brand-connection-chart">Chart</div>
+                </div>
+              </div>
+            </div>
+            <!-- Second Row End-->
+          </div>
+          <!-- Column Two END -->
+
+          <!-- Column Three Start -->
+          <div class="col-md-3">
+            <div class="card dash-card">
+              <span>Pictures</span>
+              <div id="pictures-chart">Chart</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- First Global Cards Container END -->
+    </section>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./js/app.js"></script>
+  </body>
+</html>

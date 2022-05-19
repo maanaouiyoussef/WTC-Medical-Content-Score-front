@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="42" viewBox="0 0 84 42">
+  <g id="Gruppe_181" data-name="Gruppe 181" transform="translate(-1409 -879)">
+    <g id="Gruppe_106" data-name="Gruppe 106" transform="translate(-4849 152)">
+      <g id="Rechteck_1567" data-name="Rechteck 1567" transform="translate(6258 727)" fill="#f2f2f2" stroke="#707070" stroke-width="1">
+        <rect width="84" height="42" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="83" height="41" rx="4.5" fill="none"/>
+      </g>
+      <g id="Gruppe_104" data-name="Gruppe 104" transform="translate(6270.717 744)">
+        <g id="Gruppe_76" data-name="Gruppe 76" transform="translate(0 1.954)">
+          <g id="Gruppe_73" data-name="Gruppe 73">
+            <path id="Pfad_406" data-name="Pfad 406" d="M-22.623-45.246a7.877,7.877,0,0,0,7.877-7.877A7.877,7.877,0,0,0-22.623-61,7.877,7.877,0,0,0-30.5-53.123,7.877,7.877,0,0,0-22.623-45.246Z" transform="translate(30.5 61)" fill="none" stroke="#989898" stroke-width="4"/>
+          </g>
+          <g id="Gruppe_74" data-name="Gruppe 74">
+            <path id="Pfad_407" data-name="Pfad 407" d="M-22.623,0A7.877,7.877,0,0,0-30.5,7.877" transform="translate(30.5)" fill="none" stroke="#d1d1d1" stroke-linecap="round" stroke-width="4"/>
+          </g>
+        </g>
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="1.974" cy="1.974" r="1.974" transform="translate(6.086)" fill="#989898"/>
+      </g>
+      <g id="Gruppe_105" data-name="Gruppe 105" transform="translate(6316.864 766.497) rotate(-120)">
+        <g id="Gruppe_76-2" data-name="Gruppe 76" transform="translate(0 1.954)">
+          <g id="Gruppe_73-2" data-name="Gruppe 73">
+            <path id="Pfad_406-2" data-name="Pfad 406" d="M-22.623-45.246a7.877,7.877,0,0,0,7.877-7.877A7.877,7.877,0,0,0-22.623-61,7.877,7.877,0,0,0-30.5-53.123,7.877,7.877,0,0,0-22.623-45.246Z" transform="translate(30.5 61)" fill="none" stroke="#989898" stroke-width="4"/>
+          </g>
+          <g id="Gruppe_74-2" data-name="Gruppe 74">
+            <path id="Pfad_407-2" data-name="Pfad 407" d="M-22.623,0A7.877,7.877,0,0,0-30.5,7.877" transform="translate(30.5)" fill="none" stroke="#d1d1d1" stroke-linecap="round" stroke-width="4"/>
+          </g>
+        </g>
+        <circle id="Ellipse_47-2" data-name="Ellipse 47" cx="1.974" cy="1.974" r="1.974" transform="translate(6.086)" fill="#989898"/>
+      </g>
+      <rect id="Rechteck_1568" data-name="Rechteck 1568" width="76" height="6" transform="translate(6262 731)" fill="#cecece"/>
+      <rect id="Rechteck_1569" data-name="Rechteck 1569" width="6" height="5" transform="translate(6290 744)" fill="#cecece"/>
+      <rect id="Rechteck_1573" data-name="Rechteck 1573" width="19" height="3" transform="translate(6269 740)" fill="#cecece"/>
+      <rect id="Rechteck_1574" data-name="Rechteck 1574" width="19" height="3" transform="translate(6311 740)" fill="#cecece"/>
+      <rect id="Rechteck_1572" data-name="Rechteck 1572" width="6" height="5" transform="translate(6332 744)" fill="#cecece"/>
+      <rect id="Rechteck_1570" data-name="Rechteck 1570" width="6" height="5" transform="translate(6262 759)" fill="#cecece"/>
+      <rect id="Rechteck_1571" data-name="Rechteck 1571" width="6" height="5" transform="translate(6302 759)" fill="#cecece"/>
+    </g>
+    <g id="Gruppe_180" data-name="Gruppe 180">
+      <rect id="Rechteck_1575" data-name="Rechteck 1575" width="84" height="42" rx="5" transform="translate(1409 879)" fill="#fff" opacity="0.695"/>
+      <g id="Ellipse_48" data-name="Ellipse 48" transform="translate(1439 890)" fill="rgba(255,255,255,0.46)" stroke="#bcbccb" stroke-width="1">
+        <circle cx="13" cy="13" r="13" stroke="none"/>
+        <circle cx="13" cy="13" r="12.5" fill="none"/>
+      </g>
+      <g id="Gruppe_108" data-name="Gruppe 108" transform="translate(-4141.494 123)">
+        <g id="Gruppe_107" data-name="Gruppe 107" transform="translate(5588.673 772.148)">
+          <g id="icon_down-arrow-small" transform="translate(0.762 5.718)">
+            <path id="Pfad_361" data-name="Pfad 361" d="M6.793,9.936,2.6,5.7,3.687,4.6,6.793,7.739,9.9,4.6l1.087,1.1Z" transform="translate(-2.6 -4.6)" fill="#bcbccb"/>
+          </g>
+          <line id="Linie_23" data-name="Linie 23" y1="9.911" transform="translate(4.955)" fill="none" stroke="#bcbccb" stroke-width="2"/>
+          <line id="Linie_24" data-name="Linie 24" y1="9.911" transform="translate(9.911 12.96) rotate(90)" fill="none" stroke="#bcbccb" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

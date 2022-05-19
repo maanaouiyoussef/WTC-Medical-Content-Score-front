@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Navbar */
+#main-h-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 13pt;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.nav-item {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.nav-link {
+  color: #4d4f5c;
+}
+
+.nav-link.active {
+  color: #0946ec;
+  background-color: #f2f2f2;
+  padding: 8px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Section One: White BG */
+#white-section {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: linear-gradient(
+      0deg,
+      rgba(218, 216, 217, 0.26),
+      rgba(209, 207, 208, 0.26)
+    ),
+    url("../img/BubblesWhiteBG.png");
+}
+
+/* Headline */
+#headline {
+  position: absolute;
+  top: 0;
+  left: 6%;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+}
+
+.headline-logo {
+  color: #353535;
+  font-size: 16pt;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+/* First Global Cards Container */
+#first-global-cards-container {
+  position: absolute;
+  width: 1000px;
+  height: 52%;
+  top: 20%;
+  left: 16%;
+  right: 0;
+  bottom: 0;
+}
+
+.alert {
+  color: black;
+  font-size: 12px;
+  border: none;
+  border-radius: 2px;
+}
+
+.alert.alert-primary {
+  background-color: #c4e2f0;
+}
+
+.dash-card {
+    border: 1px solid #0946EC;
+}
