@@ -116,8 +116,10 @@
 
           <!-- Column Three Start -->
           <div class="col-md-2 text-center">
-              <span style="font-size: 11px;">Count of prodkey by with questions and answer status</span>
-              <div id="pictures-chart" class="mt-2">Chart</div>
+            <span style="font-size: 11px"
+              >Count of prodkey by with questions and answer status</span
+            >
+            <div id="prodkey-qa-chart" class="mt-2">Chart</div>
           </div>
           <!-- Column Three End-->
 
@@ -126,9 +128,18 @@
             <!-- First Row-->
             <div class="row g-2 mb-2">
               <div class="col text-center">
-                <div class="card dash-card">
-                  <span>Bulletpoints</span>
-                  <div id="bullet-points-chart">Chart</div>
+                <div class="card dash-card p-2">
+                  <!-- Two Sub Columns -->
+                  <div class="row">
+                    <div class="col-md-6">
+                      <span>Selected Products</span>
+                      <span id='products-count'>353.61K</span>
+                    </div>
+                    <div class="col-md-6">
+                      <span>Last Updated</span>
+                      <span id="last-update">1/10/2022</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -136,16 +147,16 @@
 
             <!-- Second Row-->
             <div class="row g-2 mb-2">
-              <div class="col-md-8 text-center">
-                <div class="card dash-card">
-                  <span>Bulletpoints</span>
-                  <div id="bullet-points-chart">Chart</div>
+              <div class="col-md-8">
+                <div class="card dash-card p-1">
+                  <span class='text-left'>Products</span>
+                  <div id="products-type-chart">Chart</div>
                 </div>
               </div>
               <div class="col-md-4 text-center">
                 <div class="card dash-card">
-                  <span>Bulletpoints</span>
-                  <div id="bullet-points-chart">Chart</div>
+                  <span>Always ON?</span>
+                  <div id="availibiliy-check-chart">Chart</div>
                 </div>
               </div>
             </div>
@@ -154,8 +165,10 @@
             <!-- Third Row-->
             <div class="row g-2">
               <div class="col text-center">
-                <div class="card">
-                  <span>Your Medical Content Score is</span>
+                <div class="card m-content-score-box">
+                  <span style="font-size: 10px"
+                    >YOUR MEDICAL CONTENT SCORE</span
+                  >
                   <div id="medical-content-score-value">58.01%</div>
                 </div>
               </div>
@@ -166,6 +179,13 @@
       </div>
       <!-- First Global Cards Container END -->
     </section>
+    
+
+
+
+
+
+    <!-- WHITE SECTION END -->
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
