@@ -131,7 +131,8 @@
   padding: 20px;
 }
 
-#third-global-cards-container,#fourth-global-cards-container {
+#third-global-cards-container {
+  position: relative;
   width: 1000px;
 }
 
@@ -142,4 +143,7 @@
 
 .download-icon {
   cursor: pointer;
+}
+#fourth-global-cards-container {
+  width: 1000px;
 }
