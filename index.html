@@ -45,11 +45,11 @@
     <!-- White Section Start -->
     <section id="white-section">
       <!-- First Global Cards Container Start -->
-      <div id="first-global-cards-container" class="card card-body p-4 mb-2">
+      <div id="first-global-cards-container" class="card card-body p-4 mb-3">
         <!-- Title + Logo -->
         <div id="headline">
           <img class="headline-logo" src="./img/Logo.png" alt="" />
-          <span class="headline-title"><strong>KEY FINDINGS</strong></span>
+          <div class="headline-title"><strong>KEY FINDINGS</strong></div>
         </div>
         <div class="row g-4">
           <!-- Column One -->
@@ -80,15 +80,15 @@
             <!-- First Row-->
             <div class="row g-2">
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2">
                   <span>Bulletpoints</span>
-                  <div id="bullet-points-chart">Chart</div>
+                  <div id="bullet-points-chart" class="m-auto"></div>
                 </div>
               </div>
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2">
                   <span>Pictures</span>
-                  <div id="pictures-chart">Chart</div>
+                  <div id="pictures-chart" class='m-auto'></div>
                 </div>
               </div>
             </div>
@@ -118,7 +118,7 @@
             <span style="font-size: 11px"
               >Count of prodkey by with questions and answer status</span
             >
-            <div id="prodkey-qa-chart" class="mt-2">Chart</div>
+            <canvas id="prodkey-qa-chart" height="100" width="100" class="mt-2"></canvas>
           </div>
           <!-- Column Three End-->
 
@@ -259,15 +259,15 @@
             <!-- First Row-->
             <div class="row g-2">
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2 p-2">
                   <span>Buy Box is Amazon</span>
-                  <div id="buybox-chart">Chart</div>
+                  <div id="buybox-chart" class="m-auto"></div>
                 </div>
               </div>
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2">
                   <span>ls Fulfilled by Amazon</span>
-                  <div id="fulfill-chart">Chart</div>
+                  <div id="fulfill-chart" class="m-auto"></div>
                 </div>
               </div>
             </div>
@@ -276,15 +276,15 @@
             <!-- Second Row-->
             <div class="row g-2 mt-1">
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2">
                   <span>In Stock?</span>
-                  <div id="instock-chart">Chart</div>
+                  <div id="instock-chart" class="m-auto"></div>
                 </div>
               </div>
               <div class="col-md-6 text-center">
-                <div class="card dash-card">
+                <div class="card dash-card p-2">
                   <span>Enhanced Content</span>
-                  <div id="enhanced-chart">Chart</div>
+                  <div id="enhanced-chart" class="m-auto"></div>
                 </div>
               </div>
             </div>
@@ -295,7 +295,7 @@
           <!-- Column Three Start -->
           <div class="col-md-2 text-center">
             <span style="font-size: 11px"> Medical content SCORE </span>
-            <div id="medical-content-chart" class="mt-2">Chart</div>
+            <canvas id="medical-content-chart" class="mt-2" height="100" width="100"></canvas>
           </div>
           <!-- Column Three End-->
 
@@ -398,28 +398,28 @@
             <!-- Column One END-->
 
             <!-- Column Two Start -->
-            <div class="col-md-2 text-center border-start border-primary">
-              <div class="card dash-card">
-                <span style="font-size: 11px"> Medical content SCORE </span>
-                <div id="medical-content-chart" class="mt-2">Chart</div>
+            <div class="col-md-3 text-center border-start border-primary">
+              <div class="card dash-card p-2">
+                <span style="font-size: 11px"> Reviews count </span>
+                <div id="reviews-count-chart" class="m-auto"></div>
               </div>
             </div>
             <!-- Column Two End-->
 
             <!-- Column Three Start -->
-            <div class="col-md-2 text-center">
-              <div class="card dash-card">
-                <span style="font-size: 11px"> Medical content SCORE </span>
-                <div id="medical-content-chart" class="mt-2">Chart</div>
+            <div class="col-md-3 text-center">
+              <div class="card dash-card p-2">
+                <span style="font-size: 11px"> Reviews Rating  </span>
+                <div id="reviews-rating-chart" class="m-auto"></div>
               </div>
             </div>
             <!-- Column Three End-->
 
             <!-- Column Four Start -->
-            <div class="col-md-5 text-center">
-              <div class="card dash-card">
-                <span style="font-size: 11px"> Medical content SCORE </span>
-                <div id="medical-content-chart" class="mt-2">Chart</div>
+            <div class="col-md-3 text-center">
+              <div class="card dash-card p-2">
+                <span style="font-size: 11px"> % of new reviews added from the last month </span>
+                <div id="new-reviews-chart" class="m-auto"></div>
               </div>
             </div>
             <!-- Column Four End-->
@@ -445,6 +445,9 @@
     <!-- Apache Echarts CDN -->
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/echarts.min.js"></script>
     
+    <!-- Chart JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <!-- Draw Charts Script -->
     <script src="./js/app.js"></script>
   </body>

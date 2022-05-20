@@ -62,7 +62,7 @@
   right: 0%;
   bottom: 0%;
   margin: -120px;
-  z-index: 1;
+  z-index: 1; 
 }
 
 .headline-logo {
@@ -72,16 +72,23 @@
   text-transform: uppercase;
 }
 
+.headline-title {
+  font-size: 16pt;
+  display: inline-block;
+  margin-top: -50px;
+}
+
 /* First Global Cards Container */
 #first-global-cards-container {
   position: relative;
   width: 1000px;
   height: 52%;
+  z-index: 12;
 }
 
 #iceberg {
   position: absolute;
-  margin: -184px ;
+  margin: -184px;
   z-index: -1;
 }
 
@@ -129,7 +136,7 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  background-image: url('../img/BubblesBlueBG.png');
+  background-image: url("../img/BubblesBlueBG.png");
   background-size: cover;
   background-position: middle;
   width: 100%;
